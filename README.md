@@ -11,4 +11,6 @@ scrapyard project
   - wires
   - blue cable to connect to computer
   - plastic bottle
-    
+ 
+video:
+[![image](https://github.com/user-attachments/assets/7122d057-1ca8-402a-8bfb-9ae178bd193c)](https://www.youtube.com/shorts/9YHjQDoRNcg)
